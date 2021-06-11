@@ -3,7 +3,7 @@ import numpy as np
 from board import Board
 
 class Game():
-    def __init__(self, stealing=False, difficulty=0, game_mode=0):
+    def __init__(self, stealing=False, difficulty=0, game_mode=5):
         self.game = Board()
         self.is_stealing_mode = stealing # True for stealing 
         self.difficulties = [2, 5, 7, 10]
