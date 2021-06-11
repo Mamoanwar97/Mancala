@@ -13,9 +13,10 @@ Also the game supports:
 - Two human players against each other
 - AI software agent against human player 
 
+You can watch a demo from Here [Youtube](https://youtu.be/qIup0czJpj4)
 ## Dependencies
 
-`pip install -r requirements.txt `
+`pip install numpy `
 
 ## Run the game
 
