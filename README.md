@@ -19,7 +19,14 @@ You can watch a demo from Here [Youtube](https://youtu.be/qIup0czJpj4)
 `pip install numpy `
 
 ## Run the game
+`python mancala.py`
 
-`./dist/mancala`
+## To Get executble file
+```
+pip install pyinstaller
+pyinstaller --onefile mancala.py
+```
+
+then navigate to dist folder and you will find your mancala.exe
 
 
